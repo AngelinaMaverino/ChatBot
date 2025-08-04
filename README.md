@@ -12,6 +12,6 @@ Este proyecto es un chatbot diseñado para proporcionar información académica 
 
 ## Uso
 
-Ejecuta el archivo `CHATBOT.ipynb` en Google Colab para probar el chatbot.
+Para ejecutar el archivo CHATBOT.ipynb en Google Colab y utilizar los modelos de Hugging Face, necesitarás un Hugging Face API Token. Este token permite acceder a los modelos y servicios necesarios para el chatbot.
 
 
